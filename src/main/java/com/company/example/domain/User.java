@@ -42,7 +42,7 @@ public class User {
     private String phoneNumber;
 
     /**
-     * 创建时间（注册时间）
+     * 创建时间
      */
     private Date createDate;
 
